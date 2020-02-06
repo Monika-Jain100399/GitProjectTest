@@ -1,2 +1,6 @@
 Hello World !!
 Welcome to Git!!
+bonjour.
+bonne nuit.
+*************************
+Change 1 to test revert.
