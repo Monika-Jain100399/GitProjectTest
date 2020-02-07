@@ -5,6 +5,11 @@ bonne nuit.
 *************************
 Change 1- to test revert..
 changed again 
+
 Change 2- to fix the bug
 
-Change - made by team memeber from remote central repository server
+Change 3 - made by team memeber from remote central repository server
+
+Change 4- to fix the bug1
+Change 5- to fix the bug2
+
