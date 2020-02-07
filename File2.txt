@@ -1,4 +1,6 @@
 This code is for CR1
-change1 to test push to remote repository 
+change 1 to test push to remote repository 
 
-Change2 made by my team from his feature and pushed on remote repository
+Change 2 made by my team from his feature and pushed on remote repository
+
+Change3 - change made by team mate for testing rebase on remote repository
