@@ -6,6 +6,6 @@ to go back and take look in previous version
 undo- 
 checkout = safe undo uncomitted/unstaged changes
 (it works at 2 levels - file or commit,private(local branch))
-
-revert= safe undo commited
-reset=unsafe undo commited
+get 
+revert= safe undo commited,commit level,private as well public branches
+(reset to below)reset=removes log ,unsafe undo commited,file and commited, private only(dangerous undo command)
