@@ -3,4 +3,6 @@ Welcome to Git!!
 bonjour.
 bonne nuit.
 *************************
-Change 1 to test revert.
+Change 1- to test revert..
+changed again 
+Change 2- to fix the bug
