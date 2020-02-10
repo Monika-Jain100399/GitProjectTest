@@ -1,5 +1,10 @@
 This is created just for practice purpose.
 It is just a dummy file.
 More you practice more you learn
+<<<<<<< HEAD
 Hosnesty is the best policy.
 Stay cool!
+=======
+Honesty is the best policy.
+Stay happy always.
+>>>>>>> c75c5ad44977efff815e97c3871115d2ce051204
